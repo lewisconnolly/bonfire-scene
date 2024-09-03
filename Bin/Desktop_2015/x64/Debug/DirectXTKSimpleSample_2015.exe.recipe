@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\fire_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\fire_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\grayscale_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps_ice.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps_nonormalmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps_nospec.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps_nospec_nonormalmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_ps_shadowmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs_ice.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs_nonormalmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs_shadowmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs_tiling.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\light_vs_tiling_nonormalmap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\particle_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\particle_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\SkyboxEffect_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\lewis\Projects\CMP502\cmp502_project\Tutorial 7\Engine\SkyboxEffect_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
