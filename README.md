@@ -3,11 +3,11 @@ A bonfire scene created in a DirectX 11 framework, implementing such features as
 
 Before running, download and extract [textures](https://drive.google.com/file/d/1nA2JuKoaKeup_Pr8qVoKAwXYFVbhZRkW/view?usp=sharing) to root folder.
 
-WASD to move.
+* WASD to move.
 
-Mouse to look around.
+* Mouse to look around.
 
-Hold shift to move faster.
+* Hold shift to move faster.
 
 <img width="955" alt="2" src="https://github.com/user-attachments/assets/98427c5d-3db1-4b37-8717-ea032fb56f19">
 
